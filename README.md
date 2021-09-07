@@ -5,4 +5,4 @@ test
 
 test
 
-krek
+tuen in 10 sekunde refreshe
