@@ -27,3 +27,12 @@
 <h2>Entscheidungsmatrix</h2>
 
 ![Entscheidungsmatrix](/Bilder/Entscheidungsmatrix.png)
+
+<h3>Ergebnis</h3>
+<p>Die Ergebnisse der Entscheidungsmatrix sehen wie folgt aus:</p>
+
+•	Platz 1: Quickline
+•	Platz 2: Swisscom
+•	Platz 3: Salt
+•	Platz 4: Sunrise
+•   Platz 5: UPC
