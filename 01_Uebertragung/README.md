@@ -26,7 +26,7 @@
 <h1>Welcher Provider wäre am besten geeignet für die Firma?</h1>
 <h2>Entscheidungsmatrix</h2>
 
-![Entscheidungsmatrix](/Bilder/Entscheidungsmatrix.png)
+![Entscheidungsmatrix](/Bilder/Vertiefungsarbeit/Entscheidungsmatrix.png)
 
 <h3>Ergebnis</h3>
 <p>Die Ergebnisse der Entscheidungsmatrix sehen wie folgt aus:</p>
@@ -37,7 +37,7 @@
 •	Platz 4: Sunrise
 •   Platz 5: UPC
 
-![Punktzahl](/Bilder/Punktzahl.png)
+![Punktzahl](/Bilder/Vertiefungsarbeit/Ergebnis.png)
 
 <p>Aufgrund dessen, dass der 1. Platz mehr als 20% Abstand zum 2. Platz hat kann Quickline als eindeutiger Sieger gesehen werden. Wir raten der Firma also, einen Vertrag mit Quickline zu unterzeichnen, was den Provider angeht. Wenn die Firma noch mehr Verfügbarkeit haben möchte, können sie ebenfalls noch einen Vertrag mit Swisscom abschliessen, da Swisscom am 2. Besten von den Providern abgeschnitten hat. Swisscom hat ebenfalls mehr als 20% Abstand zum 3. Platz weswegen Swisscom als klare Nummer 2 gesehen werden kann.</p>
 
