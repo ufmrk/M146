@@ -23,6 +23,7 @@
 
 <p>Wenn ein Ausfall von 4h bereits untolerierbar wäre, wäre unserer Meinung nach die beste und sinnvollste Lösung einen Vertrag mit 2 Providern (mit einer Geschwindigkeit von 1 Gbit/s) zu unterzeichnen, falls mal ein Provider ausfallen sollte. In diesem Vertrag steht im besten Fall noch drin, dass der Provider einen Ausfall innerhalb von 4h beheben muss. Wird dies nicht erfüllt muss der Provider dann eine angemessene Summe bezahlen. Unserer Meinung nach ist dies auch die deutlich sinnvollere Lösung, da dies deutlich redundanter ist und es schon verheerend sein kann, wenn ein Webshop für 4h offline ist. Die geschätzte Verfügbarkeit würde somit bei 99.9% liegen, da es immer noch sein kann, dass beide Provider gleichzeitig ausfallen, was aber sehr unwahrscheinlich ist. Während so einem Ausfall wäre es ungefähr für 1/3 des Tages nicht möglich zu arbeiten.</p>
 
+<h1>Welcher Provider wäre am besten geeignet für die Firma?</h1>
 <h2>Entscheidungsmatrix</h2>
 
 ![Entscheidungsmatrix](/Bilder/Entscheidungsmatrix.png)
