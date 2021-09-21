@@ -9,7 +9,7 @@
 ### Entscheidungsmatrix 
 <br>
 
-[Entscheidungsmatrix](Bilder\Vertiefungsarbeit\Entscheidungsmatrix.png)
+![Entscheidungsmatrix](/Bilder/Vertiefungsarbeit/Entscheidungsmatrix.png)
 
 <br>
 
