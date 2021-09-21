@@ -57,3 +57,4 @@ Kriterien:<br>
 •	Ein Ausfall von 4h ist bereits untolerierbar<br>
 
 Wenn diese Kriterien zutreffen würden wir empfehlen auf ein Glasfasernetz umzusteigen und eine Firewall einzurichten. Wir würden wir einen Vertrag mit dem Provider ausmachen, bei dem wir eine Geschwindigkeit von 1 Gbit/s haben und ein Problem mit den Servern innerhalb 4h gelöst werden muss und sonst eine angemessene Summe bezahlt werden muss. Da die Server beim Provider selbst stehen, ist es in diesem Fall nicht nötig einen Vertrag mit 2 Providern zu unterzeichnen.
+
