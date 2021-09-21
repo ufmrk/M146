@@ -11,8 +11,6 @@
 
 ![Entscheidungsmatrix](/Bilder/Vertiefungsarbeit/Entscheidungsmatrix.png)
 
-<br>
-
 ### Ergebnis:
 Die Ergebnisse der Entscheidungsmatrix sehen wie folgt aus:<br>
 •	Platz 1: Quickline<br>
@@ -21,5 +19,5 @@ Die Ergebnisse der Entscheidungsmatrix sehen wie folgt aus:<br>
 •	Platz 4: Sunrise<br>
 •	Platz 5: UPC
 
-
+![Ergebnis](/Bilder/Vertiefungsarbeit/Ergebnis.png)
 
