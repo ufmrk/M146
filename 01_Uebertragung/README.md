@@ -8,7 +8,7 @@
 
 <p>Wenn die Server beim Provider stehen würden wir empfehlen eine Übertragungsrate von 1 Gbit/s zu haben. Da wir leider nicht genau wissen, was alles auf den Servern läuft, bzw. was man alles im Homeoffice machen könnte, wenn das Internet in der Firma ausfällt, können wir leider nicht so eine genaue Angabe geben. Wir können aber davon ausgehen, dass der Webshop auf dem Server läuft, womit wir uns dazu keine Gedanken machen müssen. Wir würden 1 Gbit/s vor allem deswegen empfehlen, da sehr viel mit Multimediaanwendungen, bzw. grossen Dateien gearbeitet und die Firma sehr viele Mitarbeiter hat. Wie bereits erwähnt, sollte die Firma auf Glasfaser umsteigen, da diese den Firmensitz in der Stadt haben, bei der diese garantiert einen Glasfaseranschluss haben werden. Auch wenn die Server beim Provider stehen sollte man bereits eine Firewall für die erhöhte Sicherheit einrichten.</p>
 
-![Glasfaser](/Bilder/Vertiefungsarbeit/Glasfaser.png)
+![Glasfaser](/Bilder/Glasfaser.png)
 
 
 <strong>Fall 2: Die Server stehen in der Firma</strong>
