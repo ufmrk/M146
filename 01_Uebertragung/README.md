@@ -46,6 +46,9 @@
 <p>Zuerst haben wir die verschiedenen Gewichtungen der einzelnen Punkte festgelegt und 5 Provider anhand dieser Punkte bewertet. Wir haben dafür im Internet über die einzelnen Provider recherchiert und danach die Provider aufgrund dessen, was wir herausgefunden haben bewertet. Dabei sind uns folgende Punkte besonders aufgefallen:</P>
 
 •	Die Preise von Swisscom sind sehr teuer, für Angebote, die andere Anbieter zu günstigerem Preis anbieten und daher wurde der Preis bei Swisscom sehr schlecht bewertet
+
 •	Quickline wurde in sehr vielen Testberichten sehr gut bewertet und hat fast in allen Punkten sehr gut abgeschnitten
+
 •	Quickline hat viele verschiedene Verträge, die alle sehr kostenstark sind und ein gutes Preis/Leistung Verhältnis bieten
+
 •	Sunrise bietet, sowie Swisscom auch, nicht das beste Preis/Leistung Verhältnis, da bei Sunrise die Preise ebenfalls sehr hoch sind, für das was geboten wird
