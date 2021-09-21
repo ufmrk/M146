@@ -25,3 +25,4 @@
 
 <h2>Entscheidungsmatrix</h2>
 
+![Entscheidungsmatrix](/Bilder/Entscheidungsmatrix.png)
