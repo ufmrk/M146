@@ -14,3 +14,16 @@
 <strong>Fall 2: Die Server stehen in der Firma</strong>
 
 <p>Auch in diesem, wohl eher viel dringender wäre es empfehlenswert auf einen Glasfaseranschluss zu wechseln. Hier wäre ebenfalls 1 Gbit/s schnelles Internet empfehlenswert. Wie bereits erwähnt wissen wir nicht was alles auf den Servern selbst läuft, aber je nachdem wie viele Webapplikationen darauf laufen, könnte es ebenfalls sein, dass sogar ein 10 Gbit/s schneller Internetanschluss zu empfehlen wäre, damit auch alle Benutzer genug schnelles Internet haben und die Webapplikationen und der Webshop in einer vernünftigen Geschwindigkeit laufen können. Ebenfalls sollte noch eine Firewall installiert und eingerichtet werden, damit die Sicherheit verstärkt wird.</p>
+
+<strong>Fall 1: Ausfall von 10h noch tolerierbar</strong>
+
+<p>Wenn ein Ausfall von 10h noch tolerierbar wäre, würden wir vorschlagen, dass ein einziger Provider (mit einer 1Gbit/s Leitung) reicht, um die Verfügbarkeit zu gewährleisten. Dabei ist ein guter Support auf Seiten des Providers wichtig, damit an dem Problem gearbeitet und es gelöst werden kann. Der Provider sollte im besten Fall laufend Updates mitteilen, wie es denn nun mit dem Problem steht. Die geschätzte Verfügbarkeit würde ungefähr bei 99.3% liegen, da es immer sein kann, dass ein Provider Probleme haben kann. Bei einem solchen Ausfall wäre praktisch während dem ganzen Tag keine Arbeit möglich.</p>
+
+<strong>Fall 2: Ausfall von 4h bereits untolerierbar</strong>
+
+<p>Wenn ein Ausfall von 4h bereits untolerierbar wäre, wäre unserer Meinung nach die beste und sinnvollste Lösung einen Vertrag mit 2 Providern (mit einer Geschwindigkeit von 1 Gbit/s) zu unterzeichnen, falls mal ein Provider ausfallen sollte. In diesem Vertrag steht im besten Fall noch drin, dass der Provider einen Ausfall innerhalb von 4h beheben muss. Wird dies nicht erfüllt muss der Provider dann eine angemessene Summe bezahlen. Unserer Meinung nach ist dies auch die deutlich sinnvollere Lösung, da dies deutlich redundanter ist und es schon verheerend sein kann, wenn ein Webshop für 4h offline ist. Die geschätzte Verfügbarkeit würde somit bei 99.9% liegen, da es immer noch sein kann, dass beide Provider gleichzeitig ausfallen, was aber sehr unwahrscheinlich ist. Während so einem Ausfall wäre es ungefähr für 1/3 des Tages nicht möglich zu arbeiten.</p>
+
+<h1>Welcher Provider wäre am besten geeignet für die Firma?</h1>
+<h2>Entscheidungsmatrix</h2>
+
+![Entscheidungsmatrix](/Bilder/Entscheidungsmatrix.png)
