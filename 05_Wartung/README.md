@@ -124,3 +124,6 @@ Um die Langfristigkeit des Internetzugans zu erhalten, Wartet man sie regelmäss
 - Gesamtauslastung / eventuelle Erweiterung der Bandbreite
 - Funktionsfähigkeit der LAN-Kabel
 - Sicherheit Überprüfen (Firewall, Proxy etc.)
+
+---
+Hier geht es zum nächsten Kapitel [06_Firewall](../06_Firewall/README.md)

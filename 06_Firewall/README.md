@@ -30,3 +30,6 @@ Jeder Internet Provider hat bereits seine eigene Firewall. Damit kann man einen 
 ## Vergleich
 
 ![Vergleich Firewall](/Bilder/Vergleich_Firewall.png)
+
+---
+Hier geht es zum nächsten Kapitel [07_VPN](../07_VPN/README.md)

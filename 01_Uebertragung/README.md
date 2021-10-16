@@ -52,3 +52,6 @@
 •	Quickline hat viele verschiedene Verträge, die alle sehr kostenstark sind und ein gutes Preis/Leistung Verhältnis bieten
 
 •	Sunrise bietet, sowie Swisscom auch, nicht das beste Preis/Leistung Verhältnis, da bei Sunrise die Preise ebenfalls sehr hoch sind, für das was geboten wird
+
+---
+Hier geht es zum nächsten Kapitel [02_Wan](../02_Wan/README.md)

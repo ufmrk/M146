@@ -63,3 +63,6 @@ Die Ausfallsicherheit wird heutzutage von den Providern meist mithilfe von MTBF 
 Heutzutage benutzt man Backup Leitungen über das 4G-Netz, falls es Probleme gibt mit dem Kabelnetz. Nach meist 60 Sekunden Ausfallzeit wechselt man mit Hilfe von einem Backuprouter auf das 4G-Netz und ist somit wieder Online. Dies garantiert, dass ein Ausfall des Kabelnetzes keine geschäftskritschen Vorfälle mit sich bringen kann.
  
 ![Backup Router](/Bilder/Backup_Router.png)
+
+---
+Hier geht es zum nächsten Kapitel [03_Internetservices](../03_Internetservices/README.md)

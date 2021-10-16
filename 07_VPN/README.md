@@ -109,3 +109,6 @@ Zusammenfassung:
 - **Point-To-Site / Client-To-Site**: Bei einer Client-To-Site VPN wird nur ein Client mit dem VPN-Netzwerk verbunden. Hierfür wird ein VPN-Client auf Z.B. Windows installiert. 
 
 - **VPN-Peers**: Ein VPN-Peer ist ein "Client". Die maximale Anzahl Peers bestimmt also, wieviele  Clients gleichzeitig mit dem VPN verbunden sein können. 
+
+---
+Hier geht es zum nächsten Kapitel [99_Vertiefungsthema](../99_Vertiefungsthema/README.md)

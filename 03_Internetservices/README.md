@@ -62,3 +62,6 @@ Inhouse Server bei einer kleinen Firma. Zusätzlich müssen hier, 1 bis 2 Räume
 Eine eher größere Firma entscheiden sich für einen Root Server. Der Techniker ist beim Provider und alle Services werden von ihm übernommen. Die generelle Sicherheit ist hier höher plus kann die maximale Ausfallsicherheit die Verhandelt werden. Nachteil hier sind die höher anfallenden Kosten. 
 
 ![Fall 2](/Bilder/Internetservices_2.png)
+
+---
+Hier geht es zum nächsten Kapitel [04_Sicherheit](../04_Sicherheit/README.md)
