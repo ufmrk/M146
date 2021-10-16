@@ -29,4 +29,4 @@ Jeder Internet Provider hat bereits seine eigene Firewall. Damit kann man einen 
 
 ## Vergleich
 
-![Vergleich Firewall](/Bilder/Vergleich_Firewall)
+![Vergleich Firewall](/Bilder/Vergleich_Firewall.png)
