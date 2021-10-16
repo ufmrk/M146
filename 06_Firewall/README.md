@@ -4,11 +4,11 @@ Eine Firewall ist essentiell und es ist nur eine Frage der Zeit bis ein ungebete
 
 ## Anforderungen
 
-Glasfaser Kabel
+• Glasfaser Kabel
 
 ## Optional
 
-Serverrack
+• Serverrack
 
 ## PC-Lösung mit Linux
 
@@ -16,11 +16,11 @@ OPNsense ist eine Open Source Firewall Lösung welche für FreeBSD entwickelt wu
 
 ## Anforderungen
 	
-Server mit FC Anschluss
+• Server mit FC Anschluss
 	
-Glasfaser Kabel
+• Glasfaser Kabel
 	
-Linux als OS
+• Linux als OS
 
 
 ## Firewall-Service des Providers
